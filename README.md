@@ -23,7 +23,7 @@ This project analyzes breast cancer data using **Power BI** to identify key tren
 - **Regional Diagnosis Patterns:** Higher cases are reported in **urban areas**, possibly due to better screening access.
 
   ## Power BI Dashboard
-  ![Dashboard Preview]()
+  ![Dashboard Preview](https://github.com/Abigail-Oluwadunsin/Breast_Cancer-/blob/main/Breast%20Cancer%20Analysis.pbix)
   The interactive dashboard provides:
     **Diagnosis Breakdown** – Cancer types, severity distribution  
     **Survival Rate Analysis** – Impact of early vs. late detection  
